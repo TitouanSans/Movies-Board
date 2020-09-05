@@ -18,6 +18,11 @@
   color: #61dafb;
 }
 
+.red {
+    color: red;
+    font-weight: bold;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
 * {
